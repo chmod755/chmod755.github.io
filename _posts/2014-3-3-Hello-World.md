@@ -1,10 +1,9 @@
 ---
 published: true
 ---
-
 --- 
 layout: post
-title:  "My first post on github"
+title: My first post on github
 ---
 
 # What is this all about
