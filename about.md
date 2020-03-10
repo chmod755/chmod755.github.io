@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a FMCG IT manager and a photographer. Married with 2 kids and living in Manchester.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I like to cycle, cook, and weirdly, I like to code
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tim.heslop@gmail.com](mailto:tim.heslop@gmail.com)
